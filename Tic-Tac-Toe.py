@@ -1,4 +1,8 @@
-
+"""
+CSE 210-01 
+Tic-Tac-Toe
+Oleg Lasukov
+"""
 
 
 board=[]
